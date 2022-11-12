@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/akshchaw.github.io/todolist/static/css/main.54b784f1.chunk.css",
+    "main.js": "/akshchaw.github.io/todolist/static/js/main.2f3577a7.chunk.js",
+    "main.js.map": "/akshchaw.github.io/todolist/static/js/main.2f3577a7.chunk.js.map",
+    "runtime-main.js": "/akshchaw.github.io/todolist/static/js/runtime-main.08c4d33a.js",
+    "runtime-main.js.map": "/akshchaw.github.io/todolist/static/js/runtime-main.08c4d33a.js.map",
+    "static/js/2.02786ba2.chunk.js": "/akshchaw.github.io/todolist/static/js/2.02786ba2.chunk.js",
+    "static/js/2.02786ba2.chunk.js.map": "/akshchaw.github.io/todolist/static/js/2.02786ba2.chunk.js.map",
+    "index.html": "/akshchaw.github.io/todolist/index.html",
+    "static/css/main.54b784f1.chunk.css.map": "/akshchaw.github.io/todolist/static/css/main.54b784f1.chunk.css.map",
+    "static/js/2.02786ba2.chunk.js.LICENSE.txt": "/akshchaw.github.io/todolist/static/js/2.02786ba2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08c4d33a.js",
+    "static/js/2.02786ba2.chunk.js",
+    "static/css/main.54b784f1.chunk.css",
+    "static/js/main.2f3577a7.chunk.js"
+  ]
+}
